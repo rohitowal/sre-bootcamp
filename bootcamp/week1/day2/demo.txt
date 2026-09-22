@@ -1,0 +1,7 @@
+Linux has been around since the mid-1990s and has since reached a user-base that spans the globe. 
+Linux is actually everywhere: It’s in your phones, your thermostats, in your cars, refrigerators, Roku devices, and televisions. 
+It also runs most of the Internet, all of the world’s top 500 supercomputers.
+
+Hello
+say hello
+hi

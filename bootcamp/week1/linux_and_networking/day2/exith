@@ -1,0 +1,9 @@
+
+[boot]
+systemd=true
+
+[user]
+default=rohit_owal
+
+[automount]
+options = "metadata"
